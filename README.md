@@ -34,4 +34,6 @@ O si usas Gradle:
   ./gradlew build
 ```
 ![Vista de la aplicación](Jueguito-Triki-Front/app.png)
+![Vista de la api](Jueguito-Triki-Front/api.png)
+
 
